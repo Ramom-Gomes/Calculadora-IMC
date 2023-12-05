@@ -39,8 +39,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Primeiro, você deve clonar o projeto na sua máquina, para isso você pode colar o seguinte comando em seu terminal:
 
 ```bash
-  git clone https://github.com/Ramom-Gomes/Calculadora-de-IMC..git
-  cd Calculadora-de-IMC.
+  git clone https://github.com/Ramom-Gomes/Calculadora-de-IMC.git
+  cd Calculadora-de-IMC
 ```
 Para instalar as dependências, execute o seguinte comando:
 
