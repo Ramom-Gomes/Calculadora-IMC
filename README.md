@@ -3,7 +3,7 @@
 ### Calculadora IMC  foi desenvolvido para você conseguir calcular o seu IMC e saber como está sua saúde, saber como está o seu índice de massa corporal. O IMC é o parâmetro adotado pela Organização Mundial de Saúde para calcular o peso ideal de cada pessoa. Nessa calculadora você consegue saber o seu índice de massa corporal através da sua altura e do seu peso. O principal objetivo com esse projeto foi aprimorar minhas habilidades de React junto com Typescript e CSS, trazendo uma calculadora bonita dinamicamente e visualmente.
 
 ### Link para visualização total do projeto: [Clique aqui](https://deft-druid-7008d8.netlify.app/).
-
+---
 ## 📷 Imagens
 
 <div align="center" display="flex">
@@ -11,10 +11,11 @@
   <img src="https://github.com/Ramom-Gomes/Calculadora-de-IMC./assets/110055468/7fc3d0bf-d86d-4263-a1d1-bffced4caf4b" width="400px" />
 </div>
 
+---
 
 ## Status
 ### Projeto Finalizado ✔️
-
+---
 
 ## ⚒️ Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -22,7 +23,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Typescript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-
+---
 
 
 ## 💻 Pré Requisitos
@@ -32,7 +33,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 * NPM instalados em sua máquina.
 * Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-
+---
 
 ## 🚀 Instalando
 
