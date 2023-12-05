@@ -1,6 +1,6 @@
 # Calculadora IMC
 
-### Calculadora IMC  foi desenvolvido para você conseguir calcular o seu IMC e saber como está sua saúde, saber como está o seu índice de massa corporal. O IMC é o parâmetro adotado pela Organização Mundial de Saúde para calcular o peso ideal de cada pessoa. Nessa calculadora você consegue saber o seu índice de massa corporal através da sua altura e do seu peso. O principal objetivo com esse projeto foi aprimorar minhas habilidades de React junto com Typescript e CSS, trazendo uma calculadora bonita dinamicamente e visualmente.
+### Calculadora IMC  foi desenvolvido para o usuário conseguir calcular o seu IMC e saber como está sua saúde, saber como está o seu índice de massa corporal. O IMC é o parâmetro adotado pela Organização Mundial de Saúde para calcular o peso ideal de cada pessoa. Nessa calculadora o usuário consegue saber o seu índice de massa corporal através da sua altura e do seu peso. O principal objetivo com esse projeto foi aprimorar minhas habilidades de React junto com Typescript e CSS, trazendo uma calculadora bonita dinamicamente e visualmente.
 
 ### Link para visualização total do projeto: [Clique aqui](https://deft-druid-7008d8.netlify.app/).
 ---
