@@ -7,8 +7,8 @@
 ## 📷 Imagens
 
 <div align="center" display="flex">
-<img src="https://github.com/Ramom-Gomes/Calculadora-de-IMC./assets/110055468/7fc3d0bf-d86d-4263-a1d1-bffced4caf4b" width="400px" />
-<img src="https://github.com/Ramom-Gomes/Calculadora-de-IMC./assets/110055468/4601850d-d75f-4191-8dbf-64947cd1a774" width="400px" />
+  <img src="https://github.com/Ramom-Gomes/Calculadora-de-IMC./assets/110055468/4601850d-d75f-4191-8dbf-64947cd1a774" width="400px" />
+  <img src="https://github.com/Ramom-Gomes/Calculadora-de-IMC./assets/110055468/7fc3d0bf-d86d-4263-a1d1-bffced4caf4b" width="400px" />
 </div>
 
 
